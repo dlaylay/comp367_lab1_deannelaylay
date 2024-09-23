@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-22T01:40:40.936Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:37:00.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:37:00.534Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T01:35:47.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:35:47.926Z"
             }
           ]
         }
